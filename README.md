@@ -1,6 +1,6 @@
 # Registration Form Web Page 📝
 
-Welcome to the **Registration Form Web App**, a modern and responsive front-end project designed for user registration and login. Built with HTML, CSS, and JavaScript, this web app provides a seamless user experience with a sleek design, smooth form transitions, and local storage for user data management.
+Welcome to the **Registration Form Web Page**, a modern and responsive front-end project designed for user registration and login. Built with HTML, CSS, and JavaScript, this web app provides a seamless user experience with a sleek design, smooth form transitions, and local storage for user data management.
 
 ---
 
